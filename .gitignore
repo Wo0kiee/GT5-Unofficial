@@ -3,6 +3,9 @@
 thumbs.db
 *.db
 
+# Minecraft
+/run
+
 ### Java ###
 
 *.class
